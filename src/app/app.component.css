@@ -1,0 +1,10 @@
+a {
+    background-color: black;
+    padding: .5em .2em;
+    margin: .5em .2em;
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: orchid;
+}
