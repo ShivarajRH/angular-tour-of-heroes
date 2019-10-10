@@ -1,8 +1,11 @@
 .messages {
+    position: relative;
     bottom: 0;
-    width: 100%;
-    padding: .5em .5em;
+    width: 50%;
+    padding: .3em .5em;
     background-color: antiquewhite;
+    margin: 1em 0em;
+    display: inline-block;
 }
 /* MessagesComponent's private CSS styles */
 h2 {
@@ -19,6 +22,7 @@ h2 {
   }
   
   button.clear {
+    position: relative;
     font-family: Arial;
     background-color: #eee;
     border: none;
